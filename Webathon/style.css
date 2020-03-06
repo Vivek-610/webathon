@@ -1,0 +1,38 @@
+
+.Leftside{
+    float: left;
+    background-color: rgb(231, 225, 231);
+    margin:5px 100px;
+}
+.Info img{
+    width:100%;
+    height:500px;
+}
+.Info{
+    width:100%;
+    border:20px solid whitesmoke;   
+    padding-bottom: 5px;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.Skills{
+    width: auto;
+    border:20px solid whitesmoke; 
+}
+.Rightside{
+    float: left;
+    margin: 10px;
+    background-color: rgb(170, 53, 88);
+}
+.Rightside p{
+    color: khaki;
+    text-align: center;
+    font-size: larger;
+    font-weight: 100px;
+}
+body{
+    background-image: url(5.jpg);
+    background-size: cover;
+}
